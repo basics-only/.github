@@ -11,3 +11,7 @@ that organizations can pick and choose between to easily integrate into their wo
 ## how can i contribute
 
 TBD. If you have expertise in any of these areas, please feel free to reach out!
+- Authentication
+- Authorization
+- Security
+- Context Harnesses
