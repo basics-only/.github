@@ -12,6 +12,8 @@ that organizations can pick and choose between to easily integrate into their wo
 
 Need? No, probably not. But if you're at a large organization and have a few skilled people, this probably helps. 
 
+Who are you? You're not a hyperscaler. You have a relatively fixed set of employees/members and you want to roll out high quality functions to them, but you need flexibility to customize and track stuff. 
+
 ## how can i contribute
 
 TBD. If you have expertise in any of these areas, please feel free to reach out!
