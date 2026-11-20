@@ -21,27 +21,17 @@ TBD. If you have expertise in any of these areas, please feel free to reach out!
 - Security
 - Context Harnesses
 
-## what's provided
+## offerings
 
-### bae6-ai
+[bae6-ai](https://github.com/basics-only/bae6-ai)
 
 Typical AI Gateway services like invocation, token/cost monitoring and limits, etc.
 
-| Provider | Supported |
-| - | :-: |
-| AWS Bedrock | ✅ |
-| GCP Vertex | ✅ |
+[bae6-context](https://github.com/basics-only/bae6-context)
 
-### bae6-context
+Utilities for providing context from a variety of sources to your models. 
 
-| Type | Supported |
-| - | :-: |
-| Documents | ✅ |
-| Retrieval | ✅ |
-| MCP | ✅ |
-| Data | ✅ |
+[bae6-authz](https://github.com/basics-only/bae6-authz)
 
-### bae6-authz
-
-Uses [OpenFGA](https://openfga.dev/)
+Uses [OpenFGA](https://openfga.dev/) for fine-grained authorizations. We may build out some authentication stuff too, but TBD.
 
