@@ -15,7 +15,31 @@ Need? No, probably not. But if you're at a large organization and have a few ski
 ## how can i contribute
 
 TBD. If you have expertise in any of these areas, please feel free to reach out!
-- Authentication
-- Authorization
+- Authentication/Authorization
 - Security
 - Context Harnesses
+
+## what's provided
+
+### bae6-ai
+
+Typical AI Gateway services like invocation, token/cost monitoring and limits, etc.
+
+| Provider | Supported |
+| - | :-: |
+| AWS Bedrock | ✅ |
+| GCP Vertex | ✅ |
+
+### bae6-context
+
+| Type | Supported |
+| - | :-: |
+| Documents | ✅ |
+| Retrieval | ✅ |
+| MCP | ✅ |
+| Data | ✅ |
+
+### bae6-authz
+
+Uses [OpenFGA](https://openfga.dev/)
+
