@@ -8,9 +8,9 @@ AI into their work. A lot of this exists elsewhere I'm sure.
 However, the purpose of this codebase is to create a set of lightweight, composable tools 
 that organizations can pick and choose between to easily integrate into their workflows. 
 
-## do i need this?
+## do i need this
 
-Need? No. But if you're at a large organization and have a few skilled people, this probably helps. 
+Need? No, probably not. But if you're at a large organization and have a few skilled people, this probably helps. 
 
 ## how can i contribute
 
